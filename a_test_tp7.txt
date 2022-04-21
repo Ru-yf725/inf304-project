@@ -1,0 +1,8 @@
+./curiosity-test ./test_tp7/erreur_bloc.test
+./curiosity-test ./test_tp7/carac_inconnu.test
+./curiosity-test ./test_tp7/sorti_du_terrain.test
+./curiosity-test ./test_tp7/programme_termine.test
+./curiosity-test ./test_tp7/tombe_dans_eau.test
+./curiosity-test ./test_tp7/test_erreur6_obstacle.test
+
+./atest.sh > a_resultat_test_tp7.txt

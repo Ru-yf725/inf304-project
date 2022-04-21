@@ -1,0 +1,19 @@
+./test_generation_terrains 5 11 9 0.4 a_tp8.txt
+./test_generation_terrains 5 11 9 0.6 a_tp8.txt
+./test_generation_terrains 7 7 7 0.7 a_tp8.txt
+
+./curiosity_perf ./test_tp8/infini_complex.prg 20 25 25 0.4 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_avance.prg 20 25 25 0.4 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_simple.prg 20 25 25 0.4 20 5000 a_tp8.txt
+
+./curiosity_perf ./test_tp8/infini_complex.prg 20 9 9 0.7 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_avance.prg 20 9 9 0.7 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_simple.prg 20 9 9 0.7 20 5000 a_tp8.txt
+
+./curiosity_perf ./test_tp8/infini_complex.prg 20 25 25 0.2 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_complex.prg 20 35 35 0.4 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_complex.prg 40 25 25 0.4 20 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_complex.prg 60 25 25 0.4 20 5000 a_tp8.txt
+
+./curiosity_perf ./test_tp8/infini_complex.prg 20 25 25 0.4 30 5000 a_tp8.txt
+./curiosity_perf ./test_tp8/infini_complex.prg 20 25 25 0.4 100 5000 a_tp8.txt

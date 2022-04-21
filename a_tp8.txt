@@ -1,0 +1,26 @@
+20
+-1
+473
+-1
+-1
+-1
+174
+-1
+271
+327
+-1
+213
+-1
+613
+-1
+-1
+-1
+-1
+-1
+722
+-1
+le pourcentage de reussite pour test ./test_tp8/infini_complex.prg: 0.350000
+ voici le nombre de reussite pour test ./test_tp8/infini_complex.prg: 7
+ voici le nombre d'obstacle pour test ./test_tp8/infini_complex.prg: 13
+ voici nombre moyen de pas effectués pour test ./test_tp8/infini_complex.prg: 399.000000
+ 

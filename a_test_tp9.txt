@@ -1,0 +1,11 @@
+des programmes-robots corrects, acceptés par l'observateur:
+./curiosity_obs terrain_11x9.txt ./test_tp9/obs1.prg 
+
+des programmes-robots incorrects, rejetés par l'observateur:
+./curiosity_obs terrain_11x9_2.txt ./test_tp9/obs2.prg
+
+des programmes-robots corrects, rejetés par l'observateur
+./curiosity_obs terrain_5\*5.txt ./test_tp9/obs3.prg
+
+des programmes-robots incorrects, acceptés par l'observateur:
+./curiosity_obs terrain_11x9_2.txt ./test_tp9/obs4.prg

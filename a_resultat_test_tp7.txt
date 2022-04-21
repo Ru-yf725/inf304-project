@@ -1,0 +1,99 @@
+[test 0]
+cas correcte
+Robot sur une case libre, programme non terminé
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+
+Le robot s'est écrasé sur un rocher X-(
+Test échoué, état attendu = N
+
+[test 2]
+cas correcte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position que vous entrez: (4, 1), N
+Position sur terrain: (5, 2), N
+ce test a échoué.
+
+[test 3]
+cas correcte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position que vous entrez: (4, 2), S
+Position sur terrain: (4, 2), N
+ce test a échoué.
+
+[test 4]
+cas correcte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position que vous entrez: (4, 2), N
+Position sur terrain: (4, 2), S
+ce test a échoué.
+
+[test 5]
+cas correcte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position que vous entrez: (4, 2), N
+Position sur terrain: (4, 2), S
+ce test a échoué.
+
+[test 6]
+cas correcte
+
+Le robot s'est écrasé sur un rocher X-(
+Evenement: Ok.
+
+cas incorrecte
+
+Le robot est tombé dans l’eau :-(
+Test échoué, état attendu = O
+
+[test 8]
+cas correcte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position que vous entrez: (7, 2), E
+Position sur terrain: (8, 2), E
+ce test a échoué.
+
+[test 9]
+cas correcte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position: Ok.
+
+cas incorrecte
+Robot sur une case libre, programme terminé :-/
+Evenement: Ok.
+Position que vous entrez: (5, 2), E
+Position sur terrain: (4, 2), S
+ce test a échoué.
